@@ -1028,6 +1028,7 @@ color:white;
   font-size: var(--fs-1);
   max-width: 16ch;
   color: #ffffff;
+    margin-top: -129px;
 }
 
 :is(.banner-md, .banner-sm) .banner-title {
