@@ -713,6 +713,10 @@ body.active { overflow: hidden; }
   max-width: 44ch;
   margin-inline: auto;
   margin-block-end: 30px;
+  
+    font-size: 2.5rem;
+    color: #9cb794;
+
 }
 
 .fiter-list {
