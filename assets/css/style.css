@@ -644,7 +644,7 @@ body.active { overflow: hidden; }
   #ABOUT
 \*-----------------------------------*/
 
-.about { text-align: center; }
+.about { }
 
 .about-banner {
   position: relative;
