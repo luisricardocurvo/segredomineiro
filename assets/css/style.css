@@ -1027,6 +1027,7 @@ body.active { overflow: hidden; }
 :is(.banner-md, .banner-sm) .banner-title {
   font-size: var(--fs-2);
   max-width: 10ch;
+  color:black;
 }
 
 .banner-card .banner-text { margin-block: 10px 15px; }
