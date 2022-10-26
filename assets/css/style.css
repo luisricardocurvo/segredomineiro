@@ -1162,7 +1162,7 @@ body.active { overflow: hidden; }
 }
 
 .footer-top::after {
-  content: url(../images/delivery-boy.svg);
+ 
   position: absolute;
   bottom: -11px;
   left: -160px;
