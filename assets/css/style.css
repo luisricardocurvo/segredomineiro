@@ -1448,7 +1448,7 @@ textarea.input-field {
     gap: 30px;
   }
 
-  .about { text-align: left; }
+  .about { text-align: left; background-color: #fef0e3;}
 
   .about .section-title { margin-block-start: 0; }
 
