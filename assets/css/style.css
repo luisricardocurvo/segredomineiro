@@ -1022,7 +1022,7 @@ body.active { overflow: hidden; }
 .banner-lg .banner-title {
   font-size: var(--fs-1);
   max-width: 16ch;
-  color: black;
+  color: #ffffff;
 }
 
 :is(.banner-md, .banner-sm) .banner-title {
