@@ -556,7 +556,7 @@ body.active { overflow: hidden; }
 
 .hero-title {
   color: #9BB794;
-  max-width: 12ch;
+  max-width: 34ch;
   margin-inline: auto;
   margin-top: 52px;
 }
