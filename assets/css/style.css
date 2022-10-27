@@ -103,6 +103,14 @@
   box-sizing: border-box;
 }
 
+
+h3 {
+    color: #9bb794;
+    margin-top: 18px;
+    letter-spacing: -1px;
+    font-size: 19px;
+}
+
 li { list-style: none; }
 
 a {
