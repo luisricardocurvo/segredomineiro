@@ -566,6 +566,9 @@ body.active { overflow: hidden; }
   margin-block: 15px 30px;
   max-width: 44ch;
   margin-inline: auto;
+  font-weight: 500;
+    font-size: 40;
+    font-size: 20px;
 }
 
 .hero .btn { margin-inline: auto; }
