@@ -562,7 +562,7 @@ body.active { overflow: hidden; }
 }
 
 .hero-text {
-  color: #9bb794;
+  color:#000000;
   margin-block: 15px 30px;
   max-width: 44ch;
   margin-inline: auto;
