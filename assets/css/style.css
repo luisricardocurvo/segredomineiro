@@ -374,7 +374,6 @@ body.active { overflow: hidden; }
 
 .header .container {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -1597,7 +1596,7 @@ textarea.input-field {
 
   .nav-toggle-btn { display: none; }
 
-  .header .container { gap: 20px; }
+  .header .container { gap: 11px; }
 
   .navbar,
   .navbar.active {
