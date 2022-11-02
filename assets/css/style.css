@@ -703,7 +703,10 @@ body.active { overflow: hidden; }
 }
 
 .about .btn { margin-inline: auto; }
+.imglogo{
 
+  text-align: center;
+}
 
 
 
@@ -1740,6 +1743,22 @@ textarea.input-field {
 /**
  * responsive for larger than 1200px screen
  */
+
+@media (min-width: 360px){
+  .imglogo{
+
+    margin-left: 122px;
+
+  }
+}
+
+@media (min-width: 1230px) {
+  .imglogo{
+
+    margin-left: 7px;
+
+  }
+}
 
 @media (min-width: 1200px) {
 
