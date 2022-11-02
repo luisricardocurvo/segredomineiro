@@ -676,6 +676,20 @@ body.active { overflow: hidden; }
   margin-block: 40px 10px;
   margin-inline: auto;
 }
+.aboutcontent{
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.sectiontexto{
+  margin-top: 30px;
+}
+
+.sectionText{
+  margin-top: 30px;
+}
 
 .about-list { margin-block: 20px 30px; }
 
