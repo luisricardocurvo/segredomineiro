@@ -1649,6 +1649,7 @@ textarea.input-field {
    * HERO
    */
 
+
   .hero {
     min-height: 660px;
     display: grid;
@@ -1662,7 +1663,7 @@ textarea.input-field {
     /*letter-spacing: -2.5px*/;
   }
 
-  .hero-text { font-size:21; }
+  .hero-text { font-size:21px; }
 
   .hero-banner {
     max-width: 45%;
