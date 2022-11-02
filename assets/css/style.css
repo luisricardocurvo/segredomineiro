@@ -575,7 +575,7 @@ body.active { overflow: hidden; }
   margin-inline: auto;
   font-weight: 500;
     font-size: 40;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .hero .btn { margin-inline: auto; }
@@ -1401,7 +1401,7 @@ textarea.input-field {
    * HERO
    */
 
-  .hero-title { --fs-1: 5rem; }
+  .hero-title { --fs-1: 3rem; }
 
 
 
