@@ -1759,7 +1759,7 @@ textarea.input-field {
  * responsive for larger than 1200px screen
  */
 
-media (min-width: 360px){
+@media (min-width: 360px){
 .imglogo {
     margin-left: 150px;
     width: 130px;
