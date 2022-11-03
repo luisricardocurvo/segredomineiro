@@ -1761,7 +1761,7 @@ textarea.input-field {
 
 media (min-width: 360px){
 .imglogo {
-    margin-left: 95%;
+    margin-left: 150px;
     width: 130px;
     height: 130px;
 }
